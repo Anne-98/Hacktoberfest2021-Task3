@@ -5,11 +5,11 @@ int size,choice,ele;
 
 
 //Creating Stack
-struct stack{
+struct st{
     int arr[100];
     int top;
 
-}st;
+}
 
 //Inserting Element
 void push(int element)
